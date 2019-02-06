@@ -12,6 +12,9 @@ Will output a CSV of all github users and their contributions from `SINCE` till 
 `cp .env.example .env`
 Fill in the required info
 
+### Installation
+`composer install`
+
 ### Sample
 ```csv
 name,additions,deletions,commits
